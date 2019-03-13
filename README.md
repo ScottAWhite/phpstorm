@@ -1,0 +1,2 @@
+# phpstorm
+Typical phpstorm settings
