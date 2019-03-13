@@ -1,0 +1,59 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.13.0" last-modified="1540885114000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="editorAAType" value="Greyscale" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="234-234-234-255,,,255-255-255-255,,,255-254-240-255,,,234-120-194-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="netbeans-default-light copy" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="SCSS File" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="70" />
+    <property name="LAST_INJECTED_LANGUAGE" value="ECMAScript 6" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesAsp" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PACKAGE_FILTER" value="yarn" />
+    <property name="PLUGIN_FILTER" value="idetalk" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="SearchEveryWhereHistory" value="donation&#10;common.p&#10;native&#10;sqlanywherenat&#10;test" />
+    <property name="SettingsSearchHistory" value="colors&#10;xd&#10;cli&#10;vagr&#10;save" />
+    <property name="TrendingPluginsSearchHistory" value="git&#10;Rainb" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.172" value="17" />
+    <property name="evlsprt3.181" value="15" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="file.chooser.recent.files" value="D:/TicketSource/wwwroot/utils&#10;C:/Program Files/PHP/v7.3.0/php.exe&#10;C:/Users/Scott White/Downloads/PhpStorm-ocean-color-scheme-master.zip&#10;C:/Users/Scott White/Downloads/PhpStorm-ocean-color-scheme-master/PhpStorm-ocean-color-scheme-master&#10;D:/wordpress-plugin&#10;D:/TicketSource/wwwroot&#10;C:/Program Files/PHP/v7.2.11/php.exe&#10;D:/TicketSource&#10;D:/React/mobile&#10;D:/React&#10;D:/github/sql-anywhere-client&#10;C:/Users/Scott White/Homestead&#10;D:/ticketsourceapi&#10;D:/Laravel/ReportApi&#10;D:/ReportApi&#10;D:/MAMP/htdocs/wordpress/wp-content/plugins/ticketsource-events/ticketsource-events.php&#10;D:/MAMP/htdocs/wordpress/wp-content/plugins/ticketsource-events&#10;D:/MAMP/htdocs/wordpress&#10;C:/Users/Scott White/Downloads/netbeans-default-light_1.icls&#10;D:/&#10;D:/VagrantDev/project-overwatch" />
+    <property name="file.gist.reindex.count" value="66563" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="find.popup.splitter" value="0.6476064" />
+    <property name="lastTip" value="5" />
+    <property name="php.embedded.stubs.notification.provider.do.not.show.again.property" value="true" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.PHP" value="Other" />
+    <property name="settings.code.style.selected.tab.SQL" value="General" />
+    <property name="show.indent.detected.notification" value="false" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="form-label-group.scss" type="PLAIN_TEXT" />
+      <mapping pattern="flex-align-items" type="SCSS" />
+      <mapping pattern="whitespace-and-wrapping" type="SCSS" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateGulpToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+</keymap>
